@@ -1,10 +1,10 @@
-#Task tracker
+# Task tracker
 
 A simple CLI task tracker built with Java.
 
 This is the initial version of the project. It will be improved and expanded over time with new features and better implementation.
 
-##Current progress
+## Current progress
 
 * Java CLI application
 * `TaskModel` for task data
@@ -13,7 +13,7 @@ This is the initial version of the project. It will be improved and expanded ove
 * Local `tasks.json` file
 * Basic JSON file creation, writing and reading
 
-##Commands originally planned
+## Commands originally planned
 
 ```bash
 java Main add "Buy groceries"
@@ -29,7 +29,7 @@ java Main list todo
 java Main list in-progress
 ```
 
-##Status
+## Status
 
 Initial version — work in progress.
 
